@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Yasmine Elsabah</h1>
 <h3 align="center">A passionate Data Analysis and Data scientist from Egypt</h3>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/yasmine-elsabah/yasmine-elsabah/blob/main/Female%20web%20developer%20working%20from%20home.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmine-elsabah&label=Profile%20views&color=0e75b6&style=flat" alt="yasmine-elsabah" /> </p>
 
 - 🌱 I’m currently learning **Machine learning and AI**
