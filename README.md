@@ -1,4 +1,7 @@
-![MasterHead](https://github.com/yasmine-elsabah/yasmine-elsabah/blob/main/analysis.gif)
+
+<p align="center">
+  <img src="https://github.com/yasmine-elsabah/yasmine-elsabah/blob/main/analysis.gif" alt="MasterHead">
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Yasmine Elsabah</h1>
